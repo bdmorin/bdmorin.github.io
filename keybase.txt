@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/bdmorin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://bdmorin.github.io
+  * I am bdmorin (https://keybase.io/bdmorin) on keybase.
+  * I have a public key ASC6z_WVzmSo4lTNgT7Q6kgem8eTxmtINKurZ342yK84Lwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01015023b891c63a30fd9a4e752d7c4cd35df5780ebf93372b1f14753e1ee0be76f40a",
+      "host": "keybase.io",
+      "kid": "0120bacff595ce64a8e254cd813ed0ea481e9bc793c66b4834abab677e36c8af382f0a",
+      "uid": "3c35d4c0f190806f6d35468dcf7a7400",
+      "username": "bdmorin"
+    },
+    "merkle_root": {
+      "ctime": 1526387078,
+      "hash": "81c0e0dd6863fc6e5b309dbd5fbfd540e162fc434b5731c6077ea91e00c2ab3951613ce12e0f980c8795b9c97b8512e97e69c844279dcb6b0faec94dea4e44dc",
+      "hash_meta": "34ad068d2badc47888466e3ad301540de28c9f0b01293fce9d2d0523c14fbfa4",
+      "seqno": 2735412
+    },
+    "service": {
+      "entropy": "wbpcXZMS5HRAnlJZoDkzJEPJ",
+      "hostname": "bdmorin.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.47"
+  },
+  "ctime": 1526387115,
+  "expire_in": 504576000,
+  "prev": "46b2f013ed9529adac384c8c983b5ba4a038f98a794987d8767847db82f41c0c",
+  "seqno": 74,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgus/1lc5kqOJUzYE+0OpIHpvHk8ZrSDSrq2d+NsivOC8Kp3BheWxvYWTESpcCSsQgRrLwE+2VKa2sOEyMmDtbpKA4+Yp5SYfYdnhH24L0HAzEIIjNMlu4Rz3i4w2r583lIzKeZiXmBrpC3+CG8AlbA6a/AgHCo3NpZ8RA6X7CqkIgkb51b6+ncnX4LolsOYL+sm+grUjFAuIj83z1jKUbIiNiTL4MYWgfMHSWTBvWEQeqi+8bKgB6fw96A6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIB/sVGUKA7x43jAXQOXsM1bDQiaTTi2MZPoEIc/3h5mIo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bdmorin
+
+==================================================================
